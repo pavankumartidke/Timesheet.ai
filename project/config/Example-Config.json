@@ -1,0 +1,44 @@
+{
+    "paths": {
+      "base_dir": ".",
+      "screenshot_dir": "screenshots",
+      "logs_dir": "logs",
+      "timesheets_dir": "timeSheets",
+      "excel_dir": "excel",
+      "tesseract_path": "C:\\IDXPROJT\\AI\\Browser-use\\Timesheet_test\\Tesseract\\tesseract.exe"
+    },
+    "api": {
+      "openai_api_key": "your-api-key-here",
+      "gpt_model": "gpt-4o"
+    },
+    "tracking": {
+      "inactivity_threshold": 300,
+      "interval_minutes": 5,
+      "window_switch_interval": 2
+    },
+    "assigned_projects": {
+    "Browser-use - P0012": {
+        "work_item": ["Development", "Debugging", "Testing"],
+        "work_item": {
+            "task": "Development",
+            "task_description": "Development can be identified "
+        },
+        "task_description": "",
+        "project_description": "",
+        "git_repo_name": ""
+    },
+    "TJ- NDC Airline Integration - P0083": {
+        "work_item": ["Backend Development", "API Integration", "Testing"],
+        "task_description": "",
+        "project_description": "",
+        "git_repo_name": ""
+    },
+    "Bench - 0001": {
+        "work_item": ["Time", "Searching", "Training"],
+        "task_description": "",
+        "project_description": "",
+        "git_repo_name": ""
+      }
+    }
+  }
+  

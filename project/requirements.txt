@@ -1,0 +1,20 @@
+# openlang_chain
+# playwtite
+browser_use
+# win32gui
+pytesseract
+fastapi
+pyautogui
+schedule
+psutil
+uvicorn
+pillow
+openai
+pandas
+pywin32
+openpyxl
+opencv-python
+
+colorlog
+
+PyInstaller

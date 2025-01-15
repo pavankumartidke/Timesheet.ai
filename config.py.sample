@@ -1,0 +1,8 @@
+
+
+
+email=""
+password=""
+model="gpt-4o"
+# model="claude-3.5-sonnet"
+zoho_url="https://people.zoho.com/"

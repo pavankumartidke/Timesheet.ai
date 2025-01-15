@@ -1,0 +1,10 @@
+{
+    "interval_minutes": 1,  
+    "window_switch_interval": 10, 
+    "openai_api_key": "Your API Key",
+    "model": "gpt-4",
+    "inactivity_threshold": 600,  
+    "assigned_projects": ["List", "Of", "Assigned projects"],
+    "work_item": ["Design Brainstroming","Online Meeting"," Frontend Development","Emailing","Backend Development","Debugging","AI/ML Development","Searching"]  
+}
+
